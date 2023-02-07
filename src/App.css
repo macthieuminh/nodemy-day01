@@ -44,7 +44,8 @@
 .card__title {
     font-size: 2.4rem;
     line-height: 1.8;
-    text-shadow: 20px 17px 1px #94bbe9;
+    text-shadow: 20px -14px 8px #94bbe9;
+    color: #ccc;
     transition: 1.2s;
 }
 .card__price {
@@ -94,6 +95,7 @@
     background-color: #fff;
 }
 .info {
+    color: #ccc;
     margin-right: 12px;
     text-align: left;
 }
